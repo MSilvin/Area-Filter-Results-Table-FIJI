@@ -9,11 +9,11 @@ This work is licensed by Marine SILVIN, (http://ici.igbmc.fr/) under a
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 # Area Filter Results Table FIJI
-  This small macro allows you to filter the results of the Results Table on Fiji according to the area.
+  This small code part allows you to filter the results of the Results Table on Fiji according to the area.
  
  
- ## Goal of this macro
- The goal of this macro is to remove all rows with has an "Area" value under a certain value (which is here by default 150) in the Results Table.
+ ## Goal of this code
+ The goal of this code is to remove all rows with has an "Area" value under a certain value (which is here by default 150) in the Results Table.
 
  
  ## Outputs
